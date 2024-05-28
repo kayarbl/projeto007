@@ -1,0 +1,22 @@
+.principalContainer{
+    "container" 500%
+}
+
+
+.grid-container {
+    grid-area: grid-container2;
+    display: grid;
+    grid-template-columns: repeat(3, 250%);
+    gap: 20%;
+    justify-content: center;
+}
+
+.rectangle:hover{
+    grid-area: grid-container2;
+    display: grid;
+    grid-template-columns: repeat(3, 250%);
+    gap: 20%;
+    justify-content: center;
+
+
+}
