@@ -7,24 +7,22 @@
     <title>Document</title>
 </head>
 <body>
-<main class=".principalContainer" id=".principalContainer">
+<main class="principalContainer" id="principalContainer">
 
 
     <section class="container">
         <h2>Gêneros</h2>
         <div class="grid-container">
-          <div class="rectangle"><img src="../projectZ/rock.jpg" style="width: 100%; height: 100%; border-radius: 20%;" alt="POP/Rock"></div>
-          <div class="rectangle"><img src="../projectZ/eletronic.jpg" style="width: 100%; height: 100%; border-radius: 20%;" alt="Jazz"></div>
-          <div class="rectangle"><img src="../projectZ/mpb.jpg" style="width: 100%; height: 100%; border-radius: 20%;" alt="Forró/sertanejo"></div>
-          <div class="rectangle"><img src="../projectZ/pandeiro.webp" style="width: 100%; height: 100%; border-radius: 20%;" alt="Eletronica"></div>
-          <div class="rectangle"><img src="../projectZ/forró.jpg" style="width: 100%; height: 100%; border-radius: 20%;" alt="Samba"></div>
-          <div class="rectangle"><img src="../projectZ/reggae.jpg" style="width: 100%; height: 100%; border-radius: 20%;" alt="Rap"></div>
-          <div class="rectangle"><img src="../projectZ/rap.jpg" style="width: 100%; height: 100%; border-radius: 20%;" alt="Reggae"></div>
-          <div class="rectangle"><img src="../projectZ/pagode-baiano.jpg" style="width: 100%; height: 100%; border-radius: 20%;" alt="Axé/Pagode"></div>
-          <div class="rectangle"><img src="../projectZ/mpb.jpg" style="width: 100%; height: 100%; border-radius: 20%;" alt="MPB"></div>
+          <div class="rectangle"><img src="../projectZ/rock.jpg" style="width: 100%; height: 100%; border-radius: 5%;" alt="POP/Rock"></div>
+          <div class="rectangle"><img src="../projectZ/eletronic.jpg" style="width: 100%; height: 100%; border-radius: 5%;" alt="Jazz"></div>
+          <div class="rectangle"><img src="../projectZ/mpb.jpg" style="width: 100%; height: 100%; border-radius: 5%;" alt="Forró/sertanejo"></div>
+          <div class="rectangle"><img src="../projectZ/pandeiro.webp" style="width: 100%; height: 100%; border-radius: 5%;" alt="Eletronica"></div>
+          <div class="rectangle"><img src="../projectZ/forró.jpg" style="width: 100%; height: 100%; border-radius: 5%;" alt="Samba"></div>
+          <div class="rectangle"><img src="../projectZ/reggae.jpg" style="width: 100%; height: 100%; border-radius: 5%;" alt="Reggae"></div>
+          <div class="rectangle"><img src="../projectZ/rap.jpg" style="width: 100%; height: 100%; border-radius: 5%;" alt="Rap"></div>
+          <div class="rectangle"><img src="../projectZ/pagode-baiano.jpg" style="width: 100%; height: 120%; border-radius: 5%;" alt="Axé/Pagode"></div>
+          <div class="rectangle"><img src="../projectZ/mpb.jpg" style="width: 100%; height: 100%; border-radius: 5%;" alt="MPB"></div>
         </div>
-
-
     </section>
     
 </main>
